@@ -1,0 +1,12 @@
+openai
+python-dotenv
+pinecone
+pyTelegramBotAPI
+haystack-ai
+pinecone-haystack
+docling
+transformers
+protobuf
+requests
+docstring-parser
+jsonschema

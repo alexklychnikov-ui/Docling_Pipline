@@ -1,0 +1,28 @@
+readme.md
+README.md
+
+# env and secrets
+.env
+.env.*
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# HuggingFace / Docling cache
+.hf_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# logs
+*.log
+WORK_LOG.txt
